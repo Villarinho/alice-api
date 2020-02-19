@@ -1,0 +1,708 @@
+{
+  "metadados": {
+    "numero_resultados": 132164,
+	"inicio": 1,
+  },
+  "resposta": [
+    {
+      "id_objeto": "35",
+      "id_repositorio": 1,
+      "id_documento_indexado": 99,
+      "nome_arquivo": "docs/160392/16039205000022019/0006.03_-_Anexo_III_-_Minuta_Ata_de_registro_de_precos.pdf",
+      "url": "/alice/api/repositorios/1/objetos-de-controle/35/documentos-indexados/99"
+    },
+    {
+      "id_objeto": "254",
+      "id_repositorio": 1,
+      "id_documento_indexado": 998,
+      "nome_arquivo": "docs/160027/16002705000032019/0005.04_-_ANEXO_III_-_MINUTA_DO_TERMO_DE_CONTRATO_-_INS._BR_101_-_ADITIVO_2019.pdf",
+      "url": "/alice/api/repositorios/1/objetos-de-controle/254/documentos-indexados/998"
+    },
+    {
+      "id_objeto": "254",
+      "id_repositorio": 1,
+      "id_documento_indexado": 997,
+      "nome_arquivo": "docs/160027/16002705000032019/0004.03_-_ANEXO_II_-_MINUTA_DA_ATA_DE_REGISTRO_DE_PRE.OS_-_INS._BR_101_-_ADITIVO_2019.pdf",
+      "url": "/alice/api/repositorios/1/objetos-de-controle/254/documentos-indexados/997"
+    },
+    {
+      "id_objeto": "254",
+      "id_repositorio": 1,
+      "id_documento_indexado": 996,
+      "nome_arquivo": "docs/160027/16002705000032019/0003.02_-_TERMO_DE_REFER.NCIA_DO_PREG.O_03-2019_RETIFICADO.pdf",
+      "url": "/alice/api/repositorios/1/objetos-de-controle/254/documentos-indexados/996"
+    },
+    {
+      "id_objeto": "254",
+      "id_repositorio": 1,
+      "id_documento_indexado": 995,
+      "nome_arquivo": "docs/160027/16002705000032019/0002.01_-_EDITAL_PREG.O_03_-_2018_-_AQS_INSUMOS_BR_101_ADITIVO.pdf",
+      "url": "/alice/api/repositorios/1/objetos-de-controle/254/documentos-indexados/995"
+    },
+    {
+      "id_objeto": "253",
+      "id_repositorio": 1,
+      "id_documento_indexado": 992,
+      "nome_arquivo": "docs/160202/16020205000242018/0005.4._Anexo_III_-_Contrato.pdf",
+      "url": "/alice/api/repositorios/1/objetos-de-controle/253/documentos-indexados/992"
+    },
+    {
+      "id_objeto": "253",
+      "id_repositorio": 1,
+      "id_documento_indexado": 991,
+      "nome_arquivo": "docs/160202/16020205000242018/0004.3._Anexo_II_-_Ata_de_Registro_de_Pre.os.pdf",
+      "url": "/alice/api/repositorios/1/objetos-de-controle/253/documentos-indexados/991"
+    },
+    {
+      "id_objeto": "253",
+      "id_repositorio": 1,
+      "id_documento_indexado": 990,
+      "nome_arquivo": "docs/160202/16020205000242018/0003.2._Anexo_I_-_Termo_de_Refer.ncia.pdf",
+      "url": "/alice/api/repositorios/1/objetos-de-controle/253/documentos-indexados/990"
+    },
+    {
+      "id_objeto": "35",
+      "id_repositorio": 1,
+      "id_documento_indexado": 98,
+      "nome_arquivo": "docs/160392/16039205000022019/0005.02_-_ANEXO_II_-_CEAS_2017.pdf",
+      "url": "/alice/api/repositorios/1/objetos-de-controle/35/documentos-indexados/98"
+    },
+    {
+      "id_objeto": "253",
+      "id_repositorio": 1,
+      "id_documento_indexado": 989,
+      "nome_arquivo": "docs/160202/16020205000242018/0002.1._Edital.pdf",
+      "url": "/alice/api/repositorios/1/objetos-de-controle/253/documentos-indexados/989"
+    },
+    {
+      "id_objeto": "252",
+      "id_repositorio": 1,
+      "id_documento_indexado": 987,
+      "nome_arquivo": "docs/160236/16023605000022019/0004.termo_de_referencia.pdf",
+      "url": "/alice/api/repositorios/1/objetos-de-controle/252/documentos-indexados/987"
+    },
+    {
+      "id_objeto": "252",
+      "id_repositorio": 1,
+      "id_documento_indexado": 986,
+      "nome_arquivo": "docs/160236/16023605000022019/0003.edital_de_pregao_eletronico.pdf",
+      "url": "/alice/api/repositorios/1/objetos-de-controle/252/documentos-indexados/986"
+    },
+    {
+      "id_objeto": "252",
+      "id_repositorio": 1,
+      "id_documento_indexado": 985,
+      "nome_arquivo": "docs/160236/16023605000022019/0002.ata_de_registro_de_precos.pdf",
+      "url": "/alice/api/repositorios/1/objetos-de-controle/252/documentos-indexados/985"
+    },
+    {
+      "id_objeto": "251",
+      "id_repositorio": 1,
+      "id_documento_indexado": 982,
+      "nome_arquivo": "docs/160477/16047705000032019/0001.EDITAL._TR_E_ATA_-_atualizado.pdf",
+      "url": "/alice/api/repositorios/1/objetos-de-controle/251/documentos-indexados/982"
+    },
+    {
+      "id_objeto": "250",
+      "id_repositorio": 1,
+      "id_documento_indexado": 980,
+      "nome_arquivo": "docs/160136/16013605000052019/0001.Edital_Pregao_05_2019_-_PASA.doc",
+      "url": "/alice/api/repositorios/1/objetos-de-controle/250/documentos-indexados/980"
+    },
+    {
+      "id_objeto": "35",
+      "id_repositorio": 1,
+      "id_documento_indexado": 97,
+      "nome_arquivo": "docs/160392/16039205000022019/0004.01_-_Anexo_I_-_Termo_de_refer.ncia.pdf",
+      "url": "/alice/api/repositorios/1/objetos-de-controle/35/documentos-indexados/97"
+    },
+    {
+      "id_objeto": "249",
+      "id_repositorio": 1,
+      "id_documento_indexado": 978,
+      "nome_arquivo": "docs/160126/16012605000012019/0001.Edital_Pregao_SRP_001_2019.pdf",
+      "url": "/alice/api/repositorios/1/objetos-de-controle/249/documentos-indexados/978"
+    },
+    {
+      "id_objeto": "248",
+      "id_repositorio": 1,
+      "id_documento_indexado": 977,
+      "nome_arquivo": "docs/160307/16030705000022018/0009.edital__088__habilitacao_completa_e_ampla_participacao_-_srp_-_atualizado-_mov_carga_10-01.docx",
+      "url": "/alice/api/repositorios/1/objetos-de-controle/248/documentos-indexados/977"
+    },
+    {
+      "id_objeto": "248",
+      "id_repositorio": 1,
+      "id_documento_indexado": 976,
+      "nome_arquivo": "docs/160307/16030705000022018/0008.16.7_-_ANEXO_VII_-_ATA_REGISTRO_PRE.OS.docx",
+      "url": "/alice/api/repositorios/1/objetos-de-controle/248/documentos-indexados/976"
+    },
+    {
+      "id_objeto": "248",
+      "id_repositorio": 1,
+      "id_documento_indexado": 975,
+      "nome_arquivo": "docs/160307/16030705000022018/0007.16.6_-_ANEXO_VI_-_Minuta_do_Termo_de_Contrato-atz.docx",
+      "url": "/alice/api/repositorios/1/objetos-de-controle/248/documentos-indexados/975"
+    },
+    {
+      "id_objeto": "248",
+      "id_repositorio": 1,
+      "id_documento_indexado": 970,
+      "nome_arquivo": "docs/160307/16030705000022018/0002.16.1_-_ANEXO_I_-Termo_de_Refer.ncia.docx",
+      "url": "/alice/api/repositorios/1/objetos-de-controle/248/documentos-indexados/970"
+    },
+    {
+      "id_objeto": "35",
+      "id_repositorio": 1,
+      "id_documento_indexado": 96,
+      "nome_arquivo": "docs/160392/16039205000022019/0003.00_-_Edital_-_Preg.o_02-2019_-_QS.pdf",
+      "url": "/alice/api/repositorios/1/objetos-de-controle/35/documentos-indexados/96"
+    },
+    {
+      "id_objeto": "247",
+      "id_repositorio": 1,
+      "id_documento_indexado": 968,
+      "nome_arquivo": "docs/153176/15317605000032019/0003.Edital_Assinado_Digitalmente.pdf",
+      "url": "/alice/api/repositorios/1/objetos-de-controle/247/documentos-indexados/968"
+    },
+    {
+      "id_objeto": "247",
+      "id_repositorio": 1,
+      "id_documento_indexado": 967,
+      "nome_arquivo": "docs/153176/15317605000032019/0002.TR_Assinado_Digitalmente.pdf",
+      "url": "/alice/api/repositorios/1/objetos-de-controle/247/documentos-indexados/967"
+    },
+    {
+      "id_objeto": "246",
+      "id_repositorio": 1,
+      "id_documento_indexado": 964,
+      "nome_arquivo": "docs/150151/15015105000042019/0002.Anexo_I_-__Termo_de_refer.ncia.pdf",
+      "url": "/alice/api/repositorios/1/objetos-de-controle/246/documentos-indexados/964"
+    },
+    {
+      "id_objeto": "245",
+      "id_repositorio": 1,
+      "id_documento_indexado": 961,
+      "nome_arquivo": "docs/153035/15303505000592018/0001.Edital_PREGAO_SRP_59-2018.pdf",
+      "url": "/alice/api/repositorios/1/objetos-de-controle/245/documentos-indexados/961"
+    },
+    {
+      "id_objeto": "244",
+      "id_repositorio": 1,
+      "id_documento_indexado": 959,
+      "nome_arquivo": "docs/153045/15304505000132019/0001.EDITAL_PREGAO_ELETRONICO_N_013-2019.pdf",
+      "url": "/alice/api/repositorios/1/objetos-de-controle/244/documentos-indexados/959"
+    },
+    {
+      "id_objeto": "243",
+      "id_repositorio": 1,
+      "id_documento_indexado": 958,
+      "nome_arquivo": "docs/153164/15316405000352019/0003.Preg.o_Eletr.nico_(SRP)_35-2019_-_Manuten..o_de_rede_el.trica_baixa_tens.o_FW.pdf",
+      "url": "/alice/api/repositorios/1/objetos-de-controle/243/documentos-indexados/958"
+    },
+    {
+      "id_objeto": "242",
+      "id_repositorio": 1,
+      "id_documento_indexado": 954,
+      "nome_arquivo": "docs/153080/15308005000372019/0001.Edital_Pregao_Eletronico_UFPE_037.2019_AN.pdf",
+      "url": "/alice/api/repositorios/1/objetos-de-controle/242/documentos-indexados/954"
+    },
+    {
+      "id_objeto": "241",
+      "id_repositorio": 1,
+      "id_documento_indexado": 952,
+      "nome_arquivo": "docs/153080/15308005000382019/0001.Edital_Pregao_Eletronico_UFPE_038.2019_LA.pdf",
+      "url": "/alice/api/repositorios/1/objetos-de-controle/241/documentos-indexados/952"
+    },
+    {
+      "id_objeto": "240",
+      "id_repositorio": 1,
+      "id_documento_indexado": 950,
+      "nome_arquivo": "docs/153080/15308005000392019/0001.Edital_Pregao_Eletronico_UFPE_039.2019_CE.pdf",
+      "url": "/alice/api/repositorios/1/objetos-de-controle/240/documentos-indexados/950"
+    },
+    {
+      "id_objeto": "35",
+      "id_repositorio": 1,
+      "id_documento_indexado": 100,
+      "nome_arquivo": "docs/160392/16039205000022019/0007.04_-_Anexo_IV_-_Minuta_de_contrato.pdf",
+      "url": "/alice/api/repositorios/1/objetos-de-controle/35/documentos-indexados/100"
+    },
+    {
+      "id_objeto": "239",
+      "id_repositorio": 1,
+      "id_documento_indexado": 949,
+      "nome_arquivo": "docs/153080/15308005000402019/0002.Edital_Pregao_Eletronico_UFPE_040.2019_PF.pdf",
+      "url": "/alice/api/repositorios/1/objetos-de-controle/239/documentos-indexados/949"
+    },
+    {
+      "id_objeto": "238",
+      "id_repositorio": 1,
+      "id_documento_indexado": 946,
+      "nome_arquivo": "docs/153080/15308005000412019/0001.Edital_Pregao_Eletronico_UFPE_041.2019_LA.pdf",
+      "url": "/alice/api/repositorios/1/objetos-de-controle/238/documentos-indexados/946"
+    },
+    {
+      "id_objeto": "237",
+      "id_repositorio": 1,
+      "id_documento_indexado": 944,
+      "nome_arquivo": "docs/153030/15303005000112019/0001.PE011(Servico_confecao_instalacao_cortinas_SRP)_CAS.pdf",
+      "url": "/alice/api/repositorios/1/objetos-de-controle/237/documentos-indexados/944"
+    },
+    {
+      "id_objeto": "236",
+      "id_repositorio": 1,
+      "id_documento_indexado": 943,
+      "nome_arquivo": "docs/158517/15851799000022019/0049.14_-_Anexo_XIII_-_Minuta_de_Contrato.pdf",
+      "url": "/alice/api/repositorios/1/objetos-de-controle/236/documentos-indexados/943"
+    },
+    {
+      "id_objeto": "236",
+      "id_repositorio": 1,
+      "id_documento_indexado": 940,
+      "nome_arquivo": "docs/158517/15851799000022019/0045.10_-_ANEXO_IX_-_ENCARTE_T.CNICO.pdf",
+      "url": "/alice/api/repositorios/1/objetos-de-controle/236/documentos-indexados/940"
+    },
+    {
+      "id_objeto": "236",
+      "id_repositorio": 1,
+      "id_documento_indexado": 936,
+      "nome_arquivo": "docs/158517/15851799000022019/0041.9_-_ANEXO_VIII_-_MEMORIAL_DESCRITIVO_DO_PROJETO_ARQUITET.NICO.pdf",
+      "url": "/alice/api/repositorios/1/objetos-de-controle/236/documentos-indexados/936"
+    },
+    {
+      "id_objeto": "59",
+      "id_repositorio": 1,
+      "id_documento_indexado": 90,
+      "nome_arquivo": "docs/926588/92658805000022019/0002.RelacaoItens92658805000022019000.pdf",
+      "url": "/alice/api/repositorios/1/objetos-de-controle/59/documentos-indexados/90"
+    },
+    {
+      "id_objeto": "59",
+      "id_repositorio": 1,
+      "id_documento_indexado": 89,
+      "nome_arquivo": "docs/926588/92658805000022019/0001.11._EDITAL_(pag._37-93).pdf",
+      "url": "/alice/api/repositorios/1/objetos-de-controle/59/documentos-indexados/89"
+    },
+    {
+      "id_objeto": "235",
+      "id_repositorio": 1,
+      "id_documento_indexado": 894,
+      "nome_arquivo": "docs/153038/15303805000632018/0001.Pregao_SRP_63.2018_-_Aquisicao_de_materiais_eletricos._eletronicos_e_ferramentas_de_oficina.doc",
+      "url": "/alice/api/repositorios/1/objetos-de-controle/235/documentos-indexados/894"
+    },
+    {
+      "id_objeto": "234",
+      "id_repositorio": 1,
+      "id_documento_indexado": 893,
+      "nome_arquivo": "docs/158658/15865805000142019/0013.02_-_PE_14.2019_-_Anexo_I_-_Termo_de_Referencia.pdf",
+      "url": "/alice/api/repositorios/1/objetos-de-controle/234/documentos-indexados/893"
+    },
+    {
+      "id_objeto": "234",
+      "id_repositorio": 1,
+      "id_documento_indexado": 892,
+      "nome_arquivo": "docs/158658/15865805000142019/0012.01_-_PE_14.2019_-_Edital.pdf",
+      "url": "/alice/api/repositorios/1/objetos-de-controle/234/documentos-indexados/892"
+    },
+    {
+      "id_objeto": "234",
+      "id_repositorio": 1,
+      "id_documento_indexado": 891,
+      "nome_arquivo": "docs/158658/15865805000142019/0011.04_-_PE_14.2019_-_Anexo_III_-_Minuta_de_Contrato.pdf",
+      "url": "/alice/api/repositorios/1/objetos-de-controle/234/documentos-indexados/891"
+    },
+    {
+      "id_objeto": "234",
+      "id_repositorio": 1,
+      "id_documento_indexado": 889,
+      "nome_arquivo": "docs/158658/15865805000142019/0009.05_-_PE_14.2019_-_Anexo_IV_-_Minuta_da_Ata_de_Registro_de_Pre.os.pdf",
+      "url": "/alice/api/repositorios/1/objetos-de-controle/234/documentos-indexados/889"
+    },
+    {
+      "id_objeto": "233",
+      "id_repositorio": 1,
+      "id_documento_indexado": 885,
+      "nome_arquivo": "docs/153036/15303605000092019/0012.Anexo_II_-_Memorial_Descritivo.pdf",
+      "url": "/alice/api/repositorios/1/objetos-de-controle/233/documentos-indexados/885"
+    },
+    {
+      "id_objeto": "58",
+      "id_repositorio": 1,
+      "id_documento_indexado": 87,
+      "nome_arquivo": "docs/926363/92636305000032019/0001.2019_-_Servicos_de_Transporte.docx",
+      "url": "/alice/api/repositorios/1/objetos-de-controle/58/documentos-indexados/87"
+    },
+    {
+      "id_objeto": "232",
+      "id_repositorio": 1,
+      "id_documento_indexado": 873,
+      "nome_arquivo": "docs/070008/07000805000072019/0001.PE_007-2019_-_EDITAL_-_cameras_STIC-1.pdf",
+      "url": "/alice/api/repositorios/1/objetos-de-controle/232/documentos-indexados/873"
+    },
+    {
+      "id_objeto": "231",
+      "id_repositorio": 1,
+      "id_documento_indexado": 871,
+      "nome_arquivo": "docs/070017/07001705000142019/0001.Edital_PERP_14-2019_Material_de_pintura.doc",
+      "url": "/alice/api/repositorios/1/objetos-de-controle/231/documentos-indexados/871"
+    },
+    {
+      "id_objeto": "230",
+      "id_repositorio": 1,
+      "id_documento_indexado": 869,
+      "nome_arquivo": "docs/070007/07000705000152019/0001.TRE-CE-edital-pregao-eletronico-015_2019.pdf",
+      "url": "/alice/api/repositorios/1/objetos-de-controle/230/documentos-indexados/869"
+    },
+    {
+      "id_objeto": "229",
+      "id_repositorio": 1,
+      "id_documento_indexado": 867,
+      "nome_arquivo": "docs/070018/07001805000392019/0001.Minuta_de_Edital_e_Anexos.doc",
+      "url": "/alice/api/repositorios/1/objetos-de-controle/229/documentos-indexados/867"
+    },
+    {
+      "id_objeto": "227",
+      "id_repositorio": 1,
+      "id_documento_indexado": 863,
+      "nome_arquivo": "docs/070023/07002305000072019/0001.TRE-GO-07-2019-edital-pregao-eletronico-servicos-de-vigilancia-e-seguranca.pdf",
+      "url": "/alice/api/repositorios/1/objetos-de-controle/227/documentos-indexados/863"
+    },
+    {
+      "id_objeto": "226",
+      "id_repositorio": 1,
+      "id_documento_indexado": 861,
+      "nome_arquivo": "docs/080022/08002205000152019/0001.EDITAL.pdf",
+      "url": "/alice/api/repositorios/1/objetos-de-controle/226/documentos-indexados/861"
+    },
+    {
+      "id_objeto": "225",
+      "id_repositorio": 1,
+      "id_documento_indexado": 859,
+      "nome_arquivo": "docs/080020/08002005000162019/0001.PE_016-2019_-_RG_EVENTUAL_AQUISICAO_E_INSTALACAO_DE_CORTINAS_-_cota_e_exclus.pdf",
+      "url": "/alice/api/repositorios/1/objetos-de-controle/225/documentos-indexados/859"
+    },
+    {
+      "id_objeto": "224",
+      "id_repositorio": 1,
+      "id_documento_indexado": 857,
+      "nome_arquivo": "docs/080020/08002005000172019/0001.PE_017-2019_-_CONTRATACAO_EMP_ESP_MAN_PORTOES_ELETRONICOS-ME.pdf",
+      "url": "/alice/api/repositorios/1/objetos-de-controle/224/documentos-indexados/857"
+    },
+    {
+      "id_objeto": "223",
+      "id_repositorio": 1,
+      "id_documento_indexado": 855,
+      "nome_arquivo": "docs/925866/92586605000132019/0001.Edital_do_Pregao_13_2019.pdf",
+      "url": "/alice/api/repositorios/1/objetos-de-controle/223/documentos-indexados/855"
+    },
+    {
+      "id_objeto": "222",
+      "id_repositorio": 1,
+      "id_documento_indexado": 853,
+      "nome_arquivo": "docs/925814/92581405000202019/0001.EDITAL.pdf",
+      "url": "/alice/api/repositorios/1/objetos-de-controle/222/documentos-indexados/853"
+    },
+    {
+      "id_objeto": "288",
+      "id_repositorio": 1,
+      "id_documento_indexado": 852,
+      "nome_arquivo": "docs/926310/92631005000022019/0002.EDITAL_Serv._Vigilancia_e_Portaria.doc",
+      "url": "/alice/api/repositorios/1/objetos-de-controle/288/documentos-indexados/852"
+    },
+    {
+      "id_objeto": "286",
+      "id_repositorio": 1,
+      "id_documento_indexado": 847,
+      "nome_arquivo": "docs/389425/38942505000052019/0001.PE.052019_-_MATERIAL_DE_EXPEDIENTE.pdf",
+      "url": "/alice/api/repositorios/1/objetos-de-controle/286/documentos-indexados/847"
+    },
+    {
+      "id_objeto": "285",
+      "id_repositorio": 1,
+      "id_documento_indexado": 845,
+      "nome_arquivo": "docs/389425/38942505000062019/0001.01.EDITAL_PE_004.2019_PRODACOM.pdf",
+      "url": "/alice/api/repositorios/1/objetos-de-controle/285/documentos-indexados/845"
+    },
+    {
+      "id_objeto": "284",
+      "id_repositorio": 1,
+      "id_documento_indexado": 844,
+      "nome_arquivo": "docs/590001/59000105000092019/0002.RelacaoItens59000105000092019000.pdf",
+      "url": "/alice/api/repositorios/1/objetos-de-controle/284/documentos-indexados/844"
+    },
+    {
+      "id_objeto": "284",
+      "id_repositorio": 1,
+      "id_documento_indexado": 843,
+      "nome_arquivo": "docs/590001/59000105000092019/0001.EDITAL_PREGAO_ELETRONICO_09_2019_-PASSAGEM_AEREA.pdf",
+      "url": "/alice/api/repositorios/1/objetos-de-controle/284/documentos-indexados/843"
+    },
+    {
+      "id_objeto": "283",
+      "id_repositorio": 1,
+      "id_documento_indexado": 841,
+      "nome_arquivo": "docs/135265/13526505000042019/0001.Edital_Pregao_Eletronico_Conab_Sureg_Pr_004-2019.pdf",
+      "url": "/alice/api/repositorios/1/objetos-de-controle/283/documentos-indexados/841"
+    },
+    {
+      "id_objeto": "280",
+      "id_repositorio": 1,
+      "id_documento_indexado": 837,
+      "nome_arquivo": "docs/974200/97420005001012019/0005.TermoRefer.ncia_pe737218_aquisicao_polieletrolicos_anionicos_cationicos.pdf",
+      "url": "/alice/api/repositorios/1/objetos-de-controle/280/documentos-indexados/837"
+    },
+    {
+      "id_objeto": "280",
+      "id_repositorio": 1,
+      "id_documento_indexado": 836,
+      "nome_arquivo": "docs/974200/97420005001012019/0004.PedidoAquisicao_pe737218_aquisicao_polieletrolicos_anionicos_cationicos.pdf",
+      "url": "/alice/api/repositorios/1/objetos-de-controle/280/documentos-indexados/836"
+    },
+    {
+      "id_objeto": "280",
+      "id_repositorio": 1,
+      "id_documento_indexado": 834,
+      "nome_arquivo": "docs/974200/97420005001012019/0002.edital_pe737218_aquisicao_polieletr.litos.pdf",
+      "url": "/alice/api/repositorios/1/objetos-de-controle/280/documentos-indexados/834"
+    },
+    {
+      "id_objeto": "277",
+      "id_repositorio": 1,
+      "id_documento_indexado": 824,
+      "nome_arquivo": "docs/926377/92637705000462019/0006.SEI_PMJ_-_3526891_-_Edital.pdf",
+      "url": "/alice/api/repositorios/1/objetos-de-controle/277/documentos-indexados/824"
+    },
+    {
+      "id_objeto": "277",
+      "id_repositorio": 1,
+      "id_documento_indexado": 823,
+      "nome_arquivo": "docs/926377/92637705000462019/0005.SEI_PMJ_-_3339371_-_Termo_de_Refer.ncia_-_Aquisi..o.pdf",
+      "url": "/alice/api/repositorios/1/objetos-de-controle/277/documentos-indexados/823"
+    },
+    {
+      "id_objeto": "55",
+      "id_repositorio": 1,
+      "id_documento_indexado": 81,
+      "nome_arquivo": "docs/135457/13545705000132019/0001.PREGAO_ELETRONICO_132019__exclusivo_para_MPE_itens_faltosos_segundo_momento..pdf",
+      "url": "/alice/api/repositorios/1/objetos-de-controle/55/documentos-indexados/81"
+    },
+    {
+      "id_objeto": "276",
+      "id_repositorio": 1,
+      "id_documento_indexado": 817,
+      "nome_arquivo": "docs/160111/16011105000072019/0007.Preg.o_n._007_-_2019__-_Cantina_10._BIL_-_Edital.doc",
+      "url": "/alice/api/repositorios/1/objetos-de-controle/276/documentos-indexados/817"
+    },
+    {
+      "id_objeto": "275",
+      "id_repositorio": 1,
+      "id_documento_indexado": 810,
+      "nome_arquivo": "docs/160344/16034405000052019/0004._Termo_de_referencia_Preg.o_5-2018_Pronto_pra_lan.ar_no_comprasnet.pdf",
+      "url": "/alice/api/repositorios/1/objetos-de-controle/275/documentos-indexados/810"
+    },
+    {
+      "id_objeto": "275",
+      "id_repositorio": 1,
+      "id_documento_indexado": 808,
+      "nome_arquivo": "docs/160344/16034405000052019/0002.ata_de_registro_de_precos_final_cju.pdf",
+      "url": "/alice/api/repositorios/1/objetos-de-controle/275/documentos-indexados/808"
+    },
+    {
+      "id_objeto": "274",
+      "id_repositorio": 1,
+      "id_documento_indexado": 805,
+      "nome_arquivo": "docs/160100/16010005000082019/0001.03_Edital_COPA_E_COZINHA_pregao_09-2019.pdf",
+      "url": "/alice/api/repositorios/1/objetos-de-controle/274/documentos-indexados/805"
+    },
+    {
+      "id_objeto": "54",
+      "id_repositorio": 1,
+      "id_documento_indexado": 79,
+      "nome_arquivo": "docs/135457/13545705000142019/0001.PE_Auditoria_Pericial_SAS_sem_odontologia_142019.pdf",
+      "url": "/alice/api/repositorios/1/objetos-de-controle/54/documentos-indexados/79"
+    },
+    {
+      "id_objeto": "272",
+      "id_repositorio": 1,
+      "id_documento_indexado": 797,
+      "nome_arquivo": "docs/160413/16041305000772018/0005.10.2_anexo_II___ata_de_registro_de_precos.pdf",
+      "url": "/alice/api/repositorios/1/objetos-de-controle/272/documentos-indexados/797"
+    },
+    {
+      "id_objeto": "272",
+      "id_repositorio": 1,
+      "id_documento_indexado": 796,
+      "nome_arquivo": "docs/160413/16041305000772018/0004.10._minuta_edital_77.2018-_sem_ades.o.pdf",
+      "url": "/alice/api/repositorios/1/objetos-de-controle/272/documentos-indexados/796"
+    },
+    {
+      "id_objeto": "272",
+      "id_repositorio": 1,
+      "id_documento_indexado": 794,
+      "nome_arquivo": "docs/160413/16041305000772018/0002.TR_insumo_mnt_bens_imoveis_-_Viviane.pdf",
+      "url": "/alice/api/repositorios/1/objetos-de-controle/272/documentos-indexados/794"
+    },
+    {
+      "id_objeto": "271",
+      "id_repositorio": 1,
+      "id_documento_indexado": 792,
+      "nome_arquivo": "docs/744030/74403005000032019/0005.Edital_3-2019.pdf",
+      "url": "/alice/api/repositorios/1/objetos-de-controle/271/documentos-indexados/792"
+    },
+    {
+      "id_objeto": "271",
+      "id_repositorio": 1,
+      "id_documento_indexado": 790,
+      "nome_arquivo": "docs/744030/74403005000032019/0003.Anexo_B_-_Ata_de_Registro_de_Pre.os.pdf",
+      "url": "/alice/api/repositorios/1/objetos-de-controle/271/documentos-indexados/790"
+    },
+    {
+      "id_objeto": "53",
+      "id_repositorio": 1,
+      "id_documento_indexado": 78,
+      "nome_arquivo": "docs/925880/92588005000072019/0002.RelacaoItens92588005000072019000.pdf",
+      "url": "/alice/api/repositorios/1/objetos-de-controle/53/documentos-indexados/78"
+    },
+    {
+      "id_objeto": "271",
+      "id_repositorio": 1,
+      "id_documento_indexado": 789,
+      "nome_arquivo": "docs/744030/74403005000032019/0002.Anexo_A_-_Termo_de_Refer.ncia.pdf",
+      "url": "/alice/api/repositorios/1/objetos-de-controle/271/documentos-indexados/789"
+    },
+    {
+      "id_objeto": "270",
+      "id_repositorio": 1,
+      "id_documento_indexado": 786,
+      "nome_arquivo": "docs/110511/11051105000062019/0001.Edital_06-2019_FINAL.pdf",
+      "url": "/alice/api/repositorios/1/objetos-de-controle/270/documentos-indexados/786"
+    },
+    {
+      "id_objeto": "53",
+      "id_repositorio": 1,
+      "id_documento_indexado": 77,
+      "nome_arquivo": "docs/925880/92588005000072019/0001.EDITAL_-_PE_N_007-2019.pdf",
+      "url": "/alice/api/repositorios/1/objetos-de-controle/53/documentos-indexados/77"
+    },
+    {
+      "id_objeto": "302",
+      "id_repositorio": 1,
+      "id_documento_indexado": 777,
+      "nome_arquivo": "docs/926584/92658405000062019/0001.Edital_P.E_006.2019__(servico_internet_Centrer.).doc",
+      "url": "/alice/api/repositorios/1/objetos-de-controle/302/documentos-indexados/777"
+    },
+    {
+      "id_objeto": "300",
+      "id_repositorio": 1,
+      "id_documento_indexado": 771,
+      "nome_arquivo": "docs/910847/91084705000632019/0005.PE_-_063.19_-_EXTINTORES_E_MANGUEIRAS_-_E10243223_CHNC1.pdf",
+      "url": "/alice/api/repositorios/1/objetos-de-controle/300/documentos-indexados/771"
+    },
+    {
+      "id_objeto": "52",
+      "id_repositorio": 1,
+      "id_documento_indexado": 75,
+      "nome_arquivo": "docs/925802/92580205000032019/0001.PREGAO_ELETRONICO_N_003-2019_MATERIAL_REDE_LOGICA_INFORMATICA.pdf",
+      "url": "/alice/api/repositorios/1/objetos-de-controle/52/documentos-indexados/75"
+    },
+    {
+      "id_objeto": "298",
+      "id_repositorio": 1,
+      "id_documento_indexado": 758,
+      "nome_arquivo": "docs/257053/25705305000032019/0002.PE_SRP_N._03-2019-_AQUISI..O_DE_PEAD..docx",
+      "url": "/alice/api/repositorios/1/objetos-de-controle/298/documentos-indexados/758"
+    },
+    {
+      "id_objeto": "297",
+      "id_repositorio": 1,
+      "id_documento_indexado": 755,
+      "nome_arquivo": "docs/257042/25704205000132019/0001.EDITAL_TELEFONE_13_-_2019.pdf",
+      "url": "/alice/api/repositorios/1/objetos-de-controle/297/documentos-indexados/755"
+    },
+    {
+      "id_objeto": "296",
+      "id_repositorio": 1,
+      "id_documento_indexado": 754,
+      "nome_arquivo": "docs/254462/25446299000072019/0003.RDC-e__07-2019_-_EDITAL-07-2019_OBRA_DE_REFORMA_DA_FACHADA_E_COBERTURA_DO_ICTB.docx",
+      "url": "/alice/api/repositorios/1/objetos-de-controle/296/documentos-indexados/754"
+    },
+    {
+      "id_objeto": "296",
+      "id_repositorio": 1,
+      "id_documento_indexado": 753,
+      "nome_arquivo": "docs/254462/25446299000072019/0002.Projeto_B.sico_-_revisado_DAE__23_10_2018.docx",
+      "url": "/alice/api/repositorios/1/objetos-de-controle/296/documentos-indexados/753"
+    },
+    {
+      "id_objeto": "295",
+      "id_repositorio": 1,
+      "id_documento_indexado": 750,
+      "nome_arquivo": "docs/771210/77121005000072019/0005.Anexo_C_Contrato.pdf",
+      "url": "/alice/api/repositorios/1/objetos-de-controle/295/documentos-indexados/750"
+    },
+    {
+      "id_objeto": "295",
+      "id_repositorio": 1,
+      "id_documento_indexado": 749,
+      "nome_arquivo": "docs/771210/77121005000072019/0004.Anexo_B_Ata_de_registro_de_precos_.pdf",
+      "url": "/alice/api/repositorios/1/objetos-de-controle/295/documentos-indexados/749"
+    },
+    {
+      "id_objeto": "295",
+      "id_repositorio": 1,
+      "id_documento_indexado": 748,
+      "nome_arquivo": "docs/771210/77121005000072019/0003.Anexo_A_T_Referencia_Gas_Glp.pdf",
+      "url": "/alice/api/repositorios/1/objetos-de-controle/295/documentos-indexados/748"
+    },
+    {
+      "id_objeto": "295",
+      "id_repositorio": 1,
+      "id_documento_indexado": 747,
+      "nome_arquivo": "docs/771210/77121005000072019/0002.1_Edital_07_2019_Gas_GLP.pdf",
+      "url": "/alice/api/repositorios/1/objetos-de-controle/295/documentos-indexados/747"
+    },
+    {
+      "id_objeto": "294",
+      "id_repositorio": 1,
+      "id_documento_indexado": 744,
+      "nome_arquivo": "docs/170263/17026305000032019/0001.31-_Edital_Assinado.pdf",
+      "url": "/alice/api/repositorios/1/objetos-de-controle/294/documentos-indexados/744"
+    },
+    {
+      "id_objeto": "292",
+      "id_repositorio": 1,
+      "id_documento_indexado": 741,
+      "nome_arquivo": "docs/200342/20034205000022019/0005.04-Minuta_contrato.pdf",
+      "url": "/alice/api/repositorios/1/objetos-de-controle/292/documentos-indexados/741"
+    },
+    {
+      "id_objeto": "292",
+      "id_repositorio": 1,
+      "id_documento_indexado": 740,
+      "nome_arquivo": "docs/200342/20034205000022019/0004.03-Anexo_II_do_Edital_-_Valores_M.ximos_Admitidos.pdf",
+      "url": "/alice/api/repositorios/1/objetos-de-controle/292/documentos-indexados/740"
+    },
+    {
+      "id_objeto": "292",
+      "id_repositorio": 1,
+      "id_documento_indexado": 739,
+      "nome_arquivo": "docs/200342/20034205000022019/0003.02-SEI_PF_-_9319475_-_Lici._Termo_de_Refer.ncia.pdf",
+      "url": "/alice/api/repositorios/1/objetos-de-controle/292/documentos-indexados/739"
+    },
+    {
+      "id_objeto": "292",
+      "id_repositorio": 1,
+      "id_documento_indexado": 738,
+      "nome_arquivo": "docs/200342/20034205000022019/0002.01-SEI_PF_-_10612069_-_Edital.pdf",
+      "url": "/alice/api/repositorios/1/objetos-de-controle/292/documentos-indexados/738"
+    },
+    {
+      "id_objeto": "51",
+      "id_repositorio": 1,
+      "id_documento_indexado": 72,
+      "nome_arquivo": "docs/925777/92577705000112019/0006.5_-_Anexo_IV.pdf",
+      "url": "/alice/api/repositorios/1/objetos-de-controle/51/documentos-indexados/72"
+    }
+  ]
+}
