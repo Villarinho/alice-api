@@ -40,8 +40,8 @@
                     "<span class=\"classe-licitacao\" tipo=\"obra\"><\/span>obra"
                 ],
                 [   "SQL.C01",
-                    "<span class=\"warning\">warning<\/span>Licitante \u00danico",
-                    "Vencedor: CPF/CNPJ: <span class=\"cnpj\">99.999.999\/0001-82<\/span>-  VIGILANCIA PATRIMONIAL S.A. <span class=\"cpf\">10550445749<\/span>"
+                    "<span class=warning>warning<\/span>Licitante \u00danico",
+                    "Vencedor: CPF/CNPJ: <span class=cnpj>99.999.999\/0001-82<\/span>-  VIGILANCIA PATRIMONIAL S.A. <span class=cpf>10550445749<\/span>"
                 ]
             ],
             "colunas": [
