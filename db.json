@@ -28,7 +28,7 @@
         {
             "dados": [
                 [   "EST.001",
-                    "<span class=\"info\"\/>Valor Estimado",
+                    "<span class=info>info<\/span>Valor Estimado",
                     "R$251.398,40 <span>arquivo.pdf<\/span>"
                 ],
                 [  "EST.002",
@@ -71,74 +71,5 @@
             ],
             "nome_tabela": "Arquivos"
         }
-    ],
-   "metadados": {
-    "numero_resultados": 1000,
-	"inicio": 1
-  },
-	 "resposta": [
-    {
-      "id_objeto": "35",
-      "id_repositorio": 1,
-      "id_documento_indexado": 99,
-      "nome_arquivo": "docs/160392/16039205000022019/0006.03_-_Anexo_III_-_Minuta_Ata_de_registro_de_precos.pdf",
-      "url": "/alice/api/repositorios/1/objetos-de-controle/35/documentos-indexados/99"
-    },
-    {
-      "id_objeto": "254",
-      "id_repositorio": 1,
-      "id_documento_indexado": 998,
-      "nome_arquivo": "docs/160027/16002705000032019/0005.04_-_ANEXO_III_-_MINUTA_DO_TERMO_DE_CONTRATO_-_INS._BR_101_-_ADITIVO_2019.pdf",
-      "url": "/alice/api/repositorios/1/objetos-de-controle/254/documentos-indexados/998"
-    },
-    {
-      "id_objeto": "254",
-      "id_repositorio": 1,
-      "id_documento_indexado": 997,
-      "nome_arquivo": "docs/160027/16002705000032019/0004.03_-_ANEXO_II_-_MINUTA_DA_ATA_DE_REGISTRO_DE_PRE.OS_-_INS._BR_101_-_ADITIVO_2019.pdf",
-      "url": "/alice/api/repositorios/1/objetos-de-controle/254/documentos-indexados/997"
-    },
-    {
-      "id_objeto": "254",
-      "id_repositorio": 1,
-      "id_documento_indexado": 996,
-      "nome_arquivo": "docs/160027/16002705000032019/0003.02_-_TERMO_DE_REFER.NCIA_DO_PREG.O_03-2019_RETIFICADO.pdf",
-      "url": "/alice/api/repositorios/1/objetos-de-controle/254/documentos-indexados/996"
-    },
-    {
-      "id_objeto": "254",
-      "id_repositorio": 1,
-      "id_documento_indexado": 995,
-      "nome_arquivo": "docs/160027/16002705000032019/0002.01_-_EDITAL_PREG.O_03_-_2018_-_AQS_INSUMOS_BR_101_ADITIVO.pdf",
-      "url": "/alice/api/repositorios/1/objetos-de-controle/254/documentos-indexados/995"
-    },
-    {
-      "id_objeto": "253",
-      "id_repositorio": 1,
-      "id_documento_indexado": 992,
-      "nome_arquivo": "docs/160202/16020205000242018/0005.4._Anexo_III_-_Contrato.pdf",
-      "url": "/alice/api/repositorios/1/objetos-de-controle/253/documentos-indexados/992"
-    },
-    {
-      "id_objeto": "253",
-      "id_repositorio": 1,
-      "id_documento_indexado": 991,
-      "nome_arquivo": "docs/160202/16020205000242018/0004.3._Anexo_II_-_Ata_de_Registro_de_Pre.os.pdf",
-      "url": "/alice/api/repositorios/1/objetos-de-controle/253/documentos-indexados/991"
-    },
-    {
-      "id_objeto": "253",
-      "id_repositorio": 1,
-      "id_documento_indexado": 990,
-      "nome_arquivo": "docs/160202/16020205000242018/0003.2._Anexo_I_-_Termo_de_Refer.ncia.pdf",
-      "url": "/alice/api/repositorios/1/objetos-de-controle/253/documentos-indexados/990"
-    },
-    {
-      "id_objeto": "35",
-      "id_repositorio": 1,
-      "id_documento_indexado": 98,
-      "nome_arquivo": "docs/160392/16039205000022019/0005.02_-_ANEXO_II_-_CEAS_2017.pdf",
-      "url": "/alice/api/repositorios/1/objetos-de-controle/35/documentos-indexados/98"
-    }]
-	
+    ]	
 }
